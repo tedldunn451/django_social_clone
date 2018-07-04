@@ -1,2 +1,2 @@
 # django_social_clone
-A Django app for a social media site 
+A Django project for a social media site 
