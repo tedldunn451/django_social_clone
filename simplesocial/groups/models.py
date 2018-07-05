@@ -5,7 +5,7 @@ from django.contrib.auth import get_user_model
 from django import template
 # Create your models here.
 
-User = get_user_model
+User = get_user_model()
 register = template.Library()
 
 class Group(models.Model):
